@@ -1,0 +1,40 @@
+.header__properties {
+    margin-top: 50px;
+   
+}
+
+.logo__properties {
+    width: 200px;
+    margin-left: 600px;
+}
+
+.menu__font__properties {
+    font-family: 'Big Shoulders Text', cursive;
+}
+
+.buttons__categories__properties {
+    margin-top: 50px;
+    margin-bottom: 82px;
+}
+
+.row__products__properties {
+    margin: 0 auto;
+}
+
+.carrousel__properties {
+    margin-bottom: 82px;
+}
+ 
+
+/*
+.dropdown__properties {
+margin-left: 500px;
+ }  */
+
+ .btn__products__properties {
+    margin-left: 125px;
+ }
+
+ .card__properties {
+    border: none;
+ }
